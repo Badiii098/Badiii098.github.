@@ -1,3 +1,3 @@
-# Personal.github.io
+# Personal website
 
-personal website :
+personal website : https://badiii098.github.io/Personal.github.io/
